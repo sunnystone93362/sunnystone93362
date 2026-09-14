@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**sunnystone93362/sunnystone93362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another person who writes code.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and building small things with Python and web tech
+- Prefer simple, readable code over clever tricks
+- Spend a fair amount of time in the terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+- **Languages:** Python, JavaScript, TypeScript
+- **Tools:** Git, Linux, VS Code
+- **Other:** occasional React, Node.js, basic SQL
+
+### Projects
+Still putting things together. Will share some public repos when they're ready.
+
+Thanks for stopping by.
